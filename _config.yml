@@ -2,8 +2,8 @@ title:              Clean Blog
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            ""
-url:                "https://janghoikoo.github.io/shiftee-tech-blog"
+baseurl:            "https://janghoikoo.github.io/shiftee-tech-blog"
+url:                "/"
 
 # Social Profiles
 twitter_username:   SBootstrap
